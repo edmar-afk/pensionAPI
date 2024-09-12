@@ -1,0 +1,79 @@
+{	"questions": [
+		{
+			"question": "What is the color of the sky?",
+			"answer": "Blue"
+		},
+		{
+			"question": "how are you",
+			"answer": "I'm doing great!"
+		},
+		{
+			"question": "How are you doing mate?",
+			"answer": "I'm doing good"
+		},
+		{
+			"question": "What's up?^",
+			"answer": "Not much, what about you?"
+		},
+		{
+			"question": "Where can I subscribe?",
+			"answer": "Idk, subscribe to what?"
+		},
+		{
+			"question": "Say something funny",
+			"answer": "Your love life"
+		},
+		{
+			"question": "tell me more",
+			"answer": "I don't want to"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "hello",
+			"answer": "Hello, how can I help you?"
+		},
+		{
+			"question": "I need help of something",
+			"answer": "What something? Please be more specific so I can assist you."
+		},
+		{
+			"question": "can you help me?",
+			"answer": "Sure, just tell me what kind of help"
+		},
+		{
+			"question": "Good morning",
+			"answer": "Hello, Good morning"
+		},
+		{
+			"question": "hello good afternoon mate",
+			"answer": "Good afternoon"
+		},
+		{
+			"question": "Good day, mate",
+			"answer": "Good day to you too! How can I assist you today?"
+		},
+		{
+			"question": "bye",
+			"answer": "Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!"
+		},
+		{
+			"question": "Cool",
+			"answer": "I'm Cool"
+		},
+		{
+			"question": "hi",
+			"answer": "hello"
+		},
+		{
+			"question": "hey",
+			"answer": "Hey there!"
+		},
+		{
+			"question": "hey",
+			"answer": "Hey there again!"
+		}
+	]
+}
