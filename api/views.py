@@ -81,7 +81,8 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
 
 class ChatbotViewSet(viewsets.ViewSet):
     serializer_class = ChatbotSerializer
-
+    permission_classes = [AllowAny]
+    
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
         if serializer.is_valid():
