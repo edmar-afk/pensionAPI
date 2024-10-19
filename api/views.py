@@ -57,6 +57,7 @@ class UserDetailView(generics.RetrieveAPIView):
 
 
 
+
 # Load the knowledge base from a JSON file
 def load_knowledge_base(file_path: str):
     full_path = os.path.join(BASE_DIR, file_path)
@@ -70,31 +71,19 @@ def save_knowledge_base(file_path: str, data: dict):
     with open(full_path, 'w') as file:
         json.dump(data, file, indent=2)
 
-# Load the pre-trained SentenceTransformer model
-model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Use embeddings to find the closest match
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
-    # Encode both user question and knowledge base questions
-    user_embedding = model.encode(user_question, convert_to_tensor=True)
-    question_embeddings = model.encode(questions, convert_to_tensor=True)
-
-    # Compute cosine similarities between the user question and each known question
-    similarities = util.pytorch_cos_sim(user_embedding, question_embeddings)
-    closest_idx = torch.argmax(similarities).item()
-    
-    # If the similarity score is too low, return None
-    if similarities[0][closest_idx] < 0.6:  # You can adjust the threshold
-        return None
-
-    return questions[closest_idx]
+    matches = get_close_matches(user_question, questions, n=1, cutoff=0.8)
+    return matches[0] if matches else None
 
 # Find the corresponding answer
 def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
         if q["question"] == question:
-            return q["answer"]
+            # Replace '|' with '<br><br>' in the answer
+            return q["answer"].replace('|', '<br><br>')
     return None
+
 
 class ChatbotViewSet(viewsets.ViewSet):
     serializer_class = ChatbotSerializer
@@ -105,9 +94,7 @@ class ChatbotViewSet(viewsets.ViewSet):
         if serializer.is_valid():
             user_question = serializer.validated_data['question']
             knowledge_base = load_knowledge_base('knowledge_base.json')
-            questions = [q["question"] for q in knowledge_base["questions"]]
-            
-            best_match = find_best_match(user_question, questions)
+            best_match = find_best_match(user_question, [q["question"] for q in knowledge_base["questions"]])
 
             if best_match:
                 answer = get_answer_for_question(best_match, knowledge_base)

@@ -1,302 +1,644 @@
-{	"questions": [	{ "question": "What is the color of the sky?", "answer": "Blue" },	{
-		"question": "Thank you",
-		"answer": "You're welcome"
-	},
-	{
-		"question": "how are you",
-		"answer": "I'm doing great!"
-	},
-	{
-		"question": "How are you doing mate?",
-		"answer": "I'm doing good"
-	},
-	{
-		"question": "What's up?^",
-		"answer": "Not much, what about you?"
-	},
-	{
-		"question": "Where can I subscribe?",
-		"answer": "Idk, subscribe to what?"
-	},
-	{
-		"question": "Say something funny",
-		"answer": "Your love life"
-	},
-	{
-		"question": "tell me more",
-		"answer": "I don't want to"
-	},
-	{
-		"question": "ok",
-		"answer": "ok?"
-	},
-	{
-		"question": "hello",
-		"answer": "Hello, how can I help you?"
-	},
-	{
-		"question": "I need help of something",
-		"answer": "What something? Please be more specific so I can assist you."
-	},
-	{
-		"question": "can you help me? how many rooms do you have?",
-		"answer": "Sure, just tell me what kind of help"
-	},
-	{
-		"question": "how many rooms do you have?",
-		"answer": "We have six rooms one is without air conditioning and 5 with kini Tani ang tubag"
-	},
-	{
-		"question": "Good morning",
-		"answer": "Hello, Good morning"
-	},
-	{
-		"question": "hello good afternoon mate",
-		"answer": "Good afternoon"
-	},
-	{
-		"question": "Good day, mate",
-		"answer": "Good day to you too! How can I assist you today?"
-	},
-	{
-		"question": "bye",
-		"answer": "Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!"
-	},
-	{
-		"question": "Cool",
-		"answer": "I'm Cool"
-	},
-	{
-		"question": "hi",
-		"answer": "hello"
-	},
-	{
-		"question": "hey",
-		"answer": "Hey there!"
-	},
-	{
-		"question": "hey",
-		"answer": "Hey there again!"
-	},
-	{
-		"question": "What are your room rates?",
-		"answer": "Our room rates vary based on the type of room. For our standard rooms, the rates are ₱650 for 12 hours and ₱950 for 24 hours. For larger family-sized rooms, the rate is ₱850 for 12 hours and ₱1,500 for 24 hours and the Non-aircon ₱500 for 24 hours and ₱350 for 12 hours."
-	},
-	{
-		"question": "Do you offer free WiFi?",
-		"answer": "Yes, we are pleased to offer complimentary WiFi for all our guests!"
-	},
-	{
-		"question": "Is breakfast included in the room rates?",
-		"answer": "Unfortunately, breakfast is not included in the room rates."
-	},
-	{
-		"question": "What are your check-in and check-out times?",
-		"answer": "You can check in and out at your convenience, as we offer flexible times."
-	},
-	{
-		"question": "Do you offer late check-out options?",
-		"answer": "Yes, we do offer late check-out options to accommodate your needs."
-	},
-	{
-		"question": "How can I book a room?",
-		"answer": "You can book a room by calling us at 09569364634/09972130848 or messaging our Facebook account, Charilyn Malaque."
-	},
-	{
-		"question": "What is your cancellation policy?",
-		"answer": "Our cancellation policy requires a 50% payment at the time of booking, and please note that this amount is non-refundable. We appreciate your understanding!"
-	},
-	{
-		"question": "What payment methods do you accept?",
-		"answer": "We accept cash and GCash."
-	},
-	{
-		"question": "Do you require a deposit for reservations?",
-		"answer": "Yes, a deposit is required for all reservations."
-	},
-	{
-		"question": "What attractions or restaurants are near the pension house?",
-		"answer": "Nearby options include Lucas Cuisine and Green View."
-	},
-	{
-		"question": "Do you offer rooms with special amenities like a balcony or kitchenette?",
-		"answer": "Yes, we have rooms with balconies available."
-	},
-	{
-		"question": "Is the area around the pension house safe?",
-		"answer": "Absolutely, the area is safe and secure."
-	},
-	{
-		"question": "Do you have 24-hour security or CCTV monitoring?",
-		"answer": "Yes, we have CCTV monitoring 24/7 for your safety."
-	},
-	{
-		"question": "How often is housekeeping service provided?",
-		"answer": "Housekeeping is provided after each use."
-	},
-	{
-		"question": "Do you offer room service, and what are the available hours?",
-		"answer": "Unfortunately, we do not offer room service."
-	},
-	{
-		"question": "Do you offer laundry or dry cleaning service?",
-		"answer": "Yes, laundry services are available upon request."
-	},
-	{
-		"question": "Is there a self-service laundry facility on-site?",
-		"answer": "This depends on the customer’s needs."
-	},
-	{
-		"question": "Are pets allowed in the pension house?",
-		"answer": "Regrettably, pets are not allowed."
-	},
-	{
-		"question": "Do you have family rooms?",
-		"answer": "Yes, we do offer family rooms."
-	},
-	{
-		"question": "Do you provide cribs or high chairs for young children?",
-		"answer": "We do not provide cribs or high chairs."
-	},
-	{
-		"question": "Can I book your facility for a special event or meeting?",
-		"answer": "Yes, our facility is available for special events and meetings."
-	},
-	{
-		"question": "Do you have elevators or ramps for wheelchair access?",
-		"answer": "I'm sorry, but we currently do not have elevators or ramps."
-	},
-	{
-		"question": "Do you offer discounts for extended stays or group bookings?",
-		"answer": "Yes, discounts may be available depending on the length of stay or group size."
-	},
-	{
-		"question": "Do you have smoking or non-smoking rooms?",
-		"answer": "We do not have smoking rooms, but we do have designated smoking areas."
-	},
-	{
-		"question": "Do the rooms have air conditioning and TV?",
-		"answer": "Yes, all our rooms are equipped with air conditioning and TVs."
-	},
-	{
-		"question": "Is there a private bathroom in each room?",
-		"answer": "Yes, each room has its own private bathroom."
-	},
-	{
-		"question": "Do you have discounts for extended stays or group bookings?",
-		"answer": "Yes, discounts may be available depending on the length of stay or group size."
-	},
-	{
-		"question": "Are there nearby dining options that you recommend?",
-		"answer": "Yes, we recommend dining at Lucas Cuisine."
-	},
-	{
-		"question": "What is your policy on visitors?",
-		"answer": "There are no strict policies regarding visitors as long as they are registered and the necessary fees are paid."
-	},
-	{
-		"question": "Do the rooms have hot and cold water?",
-		"answer": "Currently, we do not have hot and cold water facilities."
-	},
-	{
-		"question": "Do you offer honeymoon or romantic getaway packages?",
-		"answer": "Yes, we offer special packages for honeymooners and romantic getaways."
-	},
-	{
-		"question": "What is the maximum capacity of the function hall?",
-		"answer": "Our function hall can accommodate between 200 to 300 guests. "
-	},
-	{
-		"question": "Do you provide seating arrangements for events, such as round tables and chairs?",
-		"answer": "While we provide chairs, we do not arrange seating."
-	},
-	{
-		"question": "Do you provide audio-visual equipment, such as projectors, microphones, and speakers in your function hall?",
-		"answer": "We do not have audio-visual equipment available."
-	},
-	{
-		"question": "Is there a sound system available for use?",
-		"answer": "Unfortunately, we do not have a sound system available."
-	},
-	{
-		"question": "Do you offer event packages for weddings, birthdays, or corporate meetings?",
-		"answer": "Yes, we offer event packages tailored for various occasions."
-	},
-	{
-		"question": "Can we bring our own caterer, and are there additional fees for that?",
-		"answer": "Yes, you may bring your own caterer, and there are no additional fees."
-	},
-	{
-		"question": "Can we bring our own decorations?",
-		"answer": "Yes, you are welcome to bring your own decorations."
-	},
-	{
-		"question": "What time is the function hall available for event setup?",
-		"answer": "The function hall is available for setup anytime, as long as it is vacant."
-	},
-	{
-		"question": "How far in advance should I book the function hall?",
-		"answer": "We recommend booking as far in advance as possible, but you can inquire anytime as long as it's available."
-	},
-	{
-		"question": "What is the payment schedule for function hall rentals?",
-		"answer": "Full payment is required prior to the event."
-	},
-	{
-		"question": "Is there enough parking space for guests attending events?",
-		"answer": "Yes, we have ample parking space available for guests."
-	},
-	{
-		"question": "What are the overtime fees if the event exceeds the allotted time?",
-		"answer": "There are no additional fees for events that exceed the allotted time by 2-3 hours."
-	},
-	{
-		"question": "Are there restrictions on serving alcohol during events?",
-		"answer": "There are no restrictions on serving alcohol during your event."
-	},
-	{
-		"question": "Who is responsible for cleaning and restoring the function hall after the event?",
-		"answer": "Typically, the event organizer is responsible for cleanup, but this can be discussed and agreed upon."
-	},
-	{
-		"question": "Can I request extra beds or a sofa bed for additional guests?",
-		"answer": "Yes, you can request extra beds or sofa beds."
-	},
-	{
-		"question": "Is there a TV in each room?",
-		"answer": "Yes, every room is equipped with a TV."
-	},
-	{
-		"question": "Do the rooms have a desk or workspace?",
-		"answer": "Yes, our rooms come with a desk or workspace."
-	},
-	{
-		"question": "Can you suggest where we can book a food package?",
-		"answer": "I recommend checking out Armando's Catering and Nett's Catering for food packages."
-	},
-	{
-		"question": "Do you have a room for 1 person?",
-		"answer": "Yes, we have rooms available for solo travelers."
-	},
-	{
-		"question": "How many rooms for 1 person?",
-		"answer": "We have two single rooms—one without air conditioning and one with."
-	},
-	{
-		"question": "What room is suitable for a family?",
-		"answer": "Room 1 is our recommended option for families."
-	},
-	{
-		"question": "Do you have a room with 2 beds?",
-		"answer": "Yes, Room 4 is ideal for up to four persons and has two beds."
-	},
-	{
-		"question": "Do you cater food for rooms?",
-		"answer": "Yes, catering options can be arranged based on customer preferences."
-	},
-	{
-		"question": "How much if we want to hold an event?",
-		"answer": "The cost varies depending on the specifics, but we can provide an estimate upon inquiry."
-	}
-]
+{	"questions": [
+		{ "question": "What is the color of the sky?", "answer": "Blue" },
+		{ "question": "Thank you", "answer": "You're welcome" },
+		{ "question": "how are you", "answer": "I'm doing great!" },
+		{ "question": "How are you doing mate?", "answer": "I'm doing good" },
+		{
+			"question": "What's up?^",
+			"answer": "Not much, what about you?"
+		},
+		{
+			"question": "Where can I subscribe?",
+			"answer": "Idk, subscribe to what?"
+		},
+		{
+			"question": "Say something funny",
+			"answer": "Your love life"
+		},
+		{
+			"question": "tell me more",
+			"answer": "I don't want to"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "hello",
+			"answer": "Hello, how can I help you?"
+		},
+		{
+			"question": "I need help of something",
+			"answer": "What something? Please be more specific so I can assist you."
+		},
+		{
+			"question": "can you help me? how many rooms do you have?",
+			"answer": "Sure, just tell me what kind of help"
+		},
+		{
+			"question": "how many rooms do you have?",
+			"answer": "We have six rooms one is without air conditioning and 5 with"
+		},
+		{
+			"question": "Good morning",
+			"answer": "Hello, Good morning"
+		},
+		{
+			"question": "hello good afternoon mate",
+			"answer": "Good afternoon"
+		},
+		{
+			"question": "Good day, mate",
+			"answer": "Good day to you too! How can I assist you today?"
+		},
+		{
+			"question": "bye",
+			"answer": "Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!"
+		},
+		{
+			"question": "Cool",
+			"answer": "I'm Cool"
+		},
+		{
+			"question": "hi",
+			"answer": "hello"
+		},
+		{
+			"question": "hey",
+			"answer": "Hey there!"
+		},
+		{
+			"question": "hey",
+			"answer": "Hey there again!"
+		},
+		{
+			"question": "Do you offer free WiFi?",
+			"answer": "Yes, we are pleased to offer complimentary WiFi for all our guests!"
+		},
+		{
+			"question": "Is breakfast included in the room rates?",
+			"answer": "Unfortunately, breakfast is not included in the room rates."
+		},
+		{
+			"question": "What are your check-in and check-out times?",
+			"answer": "You can check in and out at your convenience, as we offer flexible times."
+		},
+		{
+			"question": "Do you offer late check-out options?",
+			"answer": "Yes, we do offer late check-out options to accommodate your needs."
+		},
+		{
+			"question": "How can I book a room?",
+			"answer": "You can book a room by calling us at 09569364634/09972130848 or messaging our Facebook account, Charilyn Malaque."
+		},
+		{
+			"question": "What is your cancellation policy?",
+			"answer": "Our cancellation policy requires a 50% payment at the time of booking, and please note that this amount is non-refundable. We appreciate your understanding!"
+		},
+		{
+			"question": "What payment methods do you accept?",
+			"answer": "We accept cash and GCash."
+		},
+		{
+			"question": "Do you require a deposit for reservations?",
+			"answer": "Yes, a deposit is required for all reservations."
+		},
+		{
+			"question": "What attractions or restaurants are near the pension house?",
+			"answer": "Nearby options include Lucas Cuisine and Green View."
+		},
+		{
+			"question": "Do you offer rooms with special amenities like a balcony or kitchenette?",
+			"answer": "Yes, we have rooms with balconies available."
+		},
+		{
+			"question": "Is the area around the pension house safe?",
+			"answer": "Absolutely, the area is safe and secure."
+		},
+		{
+			"question": "Do you have 24-hour security or CCTV monitoring?",
+			"answer": "Yes, we have CCTV monitoring 24/7 for your safety."
+		},
+		{
+			"question": "How often is housekeeping service provided?",
+			"answer": "Housekeeping is provided after each use."
+		},
+		{
+			"question": "Do you offer room service, and what are the available hours?",
+			"answer": "Unfortunately, we do not offer room service."
+		},
+		{
+			"question": "Do you offer laundry or dry cleaning service?",
+			"answer": "Yes, laundry services are available upon request."
+		},
+		{
+			"question": "Is there a self-service laundry facility on-site?",
+			"answer": "This depends on the customer’s needs."
+		},
+		{
+			"question": "Are pets allowed in the pension house?",
+			"answer": "Regrettably, pets are not allowed."
+		},
+		{
+			"question": "Do you have family rooms?",
+			"answer": "Yes, we do offer family rooms."
+		},
+		{
+			"question": "Do you provide cribs or high chairs for young children?",
+			"answer": "We do not provide cribs or high chairs."
+		},
+		{
+			"question": "Can I book your facility for a special event or meeting?",
+			"answer": "Yes, our facility is available for special events and meetings."
+		},
+		{
+			"question": "Do you have elevators or ramps for wheelchair access?",
+			"answer": "I'm sorry, but we currently do not have elevators or ramps."
+		},
+		{
+			"question": "Do you offer discounts for extended stays or group bookings?",
+			"answer": "Yes, discounts may be available depending on the length of stay or group size."
+		},
+		{
+			"question": "Do you have smoking or non-smoking rooms?",
+			"answer": "We do not have smoking rooms, but we do have designated smoking areas."
+		},
+		{
+			"question": "Do the rooms have air conditioning and TV?",
+			"answer": "Yes, all our rooms are equipped with air conditioning and TVs."
+		},
+		{
+			"question": "Is there a private bathroom in each room?",
+			"answer": "Yes, each room has its own private bathroom."
+		},
+		{
+			"question": "Do you have discounts for extended stays or group bookings?",
+			"answer": "Yes, discounts may be available depending on the length of stay or group size."
+		},
+		{
+			"question": "Are there nearby dining options that you recommend?",
+			"answer": "Yes, we recommend dining at Lucas Cuisine."
+		},
+		{
+			"question": "What is your policy on visitors?",
+			"answer": "There are no strict policies regarding visitors as long as they are registered and the necessary fees are paid."
+		},
+		{
+			"question": "Do the rooms have hot and cold water?",
+			"answer": "Currently, we do not have hot and cold water facilities."
+		},
+		{
+			"question": "Do you offer honeymoon or romantic getaway packages?",
+			"answer": "Yes, we offer special packages for honeymooners and romantic getaways."
+		},
+		{
+			"question": "What is the maximum capacity of the function hall?",
+			"answer": "Our function hall can accommodate between 200 to 300 guests. "
+		},
+		{
+			"question": "Do you provide seating arrangements for events, such as round tables and chairs?",
+			"answer": "While we provide chairs, we do not arrange seating."
+		},
+		{
+			"question": "Do you provide audio-visual equipment, such as projectors, microphones, and speakers in your function hall?",
+			"answer": "We do not have audio-visual equipment available."
+		},
+		{
+			"question": "Is there a sound system available for use?",
+			"answer": "Unfortunately, we do not have a sound system available."
+		},
+		{
+			"question": "Do you offer event packages for weddings, birthdays, or corporate meetings?",
+			"answer": "Yes, we offer event packages tailored for various occasions."
+		},
+		{
+			"question": "Can we bring our own caterer, and are there additional fees for that?",
+			"answer": "Yes, you may bring your own caterer, and there are no additional fees."
+		},
+		{
+			"question": "Can we bring our own decorations?",
+			"answer": "Yes, you are welcome to bring your own decorations."
+		},
+		{
+			"question": "What time is the function hall available for event setup?",
+			"answer": "The function hall is available for setup anytime, as long as it is vacant."
+		},
+		{
+			"question": "How far in advance should I book the function hall?",
+			"answer": "We recommend booking as far in advance as possible, but you can inquire anytime as long as it's available."
+		},
+		{
+			"question": "What is the payment schedule for function hall rentals?",
+			"answer": "Full payment is required prior to the event."
+		},
+		{
+			"question": "Is there enough parking space for guests attending events?",
+			"answer": "Yes, we have ample parking space available for guests."
+		},
+		{
+			"question": "What are the overtime fees if the event exceeds the allotted time?",
+			"answer": "There are no additional fees for events that exceed the allotted time by 2-3 hours."
+		},
+		{
+			"question": "Are there restrictions on serving alcohol during events?",
+			"answer": "There are no restrictions on serving alcohol during your event."
+		},
+		{
+			"question": "Who is responsible for cleaning and restoring the function hall after the event?",
+			"answer": "Typically, the event organizer is responsible for cleanup, but this can be discussed and agreed upon."
+		},
+		{
+			"question": "Can I request extra beds or a sofa bed for additional guests?",
+			"answer": "Yes, you can request extra beds or sofa beds."
+		},
+		{
+			"question": "Is there a TV in each room?",
+			"answer": "Yes, every room is equipped with a TV."
+		},
+		{
+			"question": "Do the rooms have a desk or workspace?",
+			"answer": "Yes, our rooms come with a desk or workspace."
+		},
+		{
+			"question": "Can you suggest where we can book a food package?",
+			"answer": "I recommend checking out Armando's Catering and Nett's Catering for food packages."
+		},
+		{
+			"question": "Do you have a room for 1 person?",
+			"answer": "Yes, we have rooms available for solo travelers."
+		},
+		{
+			"question": "How many rooms for 1 person?",
+			"answer": "We have two single rooms—one without air conditioning and one with."
+		},
+		{
+			"question": "What room is suitable for a family?",
+			"answer": "Room 1 is our recommended option for families."
+		},
+		{
+			"question": "Do you have a room with 2 beds?",
+			"answer": "Yes, Room 4 is ideal for up to four persons and has two beds."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "What are your room rates?",
+			"answer": "Our room rates vary based on the type of room. For our standard rooms, the rates are Php 650 for 12 hours and Php 950 for 24 hours. For larger family-sized rooms, the rate is Php 850 for 12 hours and Php 1,500 for 24 hours, and the non-aircon rate is Php 500 for 24 hours and Php 350 for 12 hours.."
+		},
+		{
+			"question": "Do you offer free WiFi?",
+			"answer": "Yes, we are pleased to offer complimentary WiFi for all our guests!"
+		},
+		{
+			"question": "Is breakfast included in the room rates?",
+			"answer": "Unfortunately, breakfast is not included in the room rates."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "How much if we want to hold an event?",
+			"answer": "The cost varies depending on the specifics, but we can provide an estimate upon inquiry."
+		},
+
+		{
+			"question": "Do you offer free WiFi?",
+			"answer": "Yes, we are pleased to offer complimentary WiFi for all our guests!"
+		},
+		{
+			"question": "Is breakfast included in the room rates?",
+			"answer": "Unfortunately, breakfast is not included in the room rates."
+		},
+		{
+			"question": "What are your check-in and check-out times?",
+			"answer": "You can check in and out at your convenience, as we offer flexible times."
+		},
+		{
+			"question": "Do you offer late check-out options?",
+			"answer": "Yes, we do offer late check-out options to accommodate your needs."
+		},
+		{
+			"question": "How can I book a room?",
+			"answer": "You can book a room by calling us at 09569364634/09972130848 or messaging our Facebook account, Charilyn Malaque."
+		},
+		{
+			"question": "What is your cancellation policy?",
+			"answer": "Our cancellation policy requires a 50% payment at the time of booking, and please note that this amount is non-refundable. We appreciate your understanding!"
+		},
+		{
+			"question": "What payment methods do you accept?",
+			"answer": "We accept cash and GCash."
+		},
+		{
+			"question": "Do you require a deposit for reservations?",
+			"answer": "Yes, a deposit is required for all reservations."
+		},
+		{
+			"question": "What attractions or restaurants are near the pension house?",
+			"answer": "Nearby options include Lucas Cuisine and Green View."
+		},
+		{
+			"question": "Do you offer rooms with special amenities like a balcony or kitchenette?",
+			"answer": "Yes, we have rooms with balconies available."
+		},
+		{
+			"question": "Is the area around the pension house safe?",
+			"answer": "Absolutely, the area is safe and secure."
+		},
+		{
+			"question": "Do you have 24-hour security or CCTV monitoring?",
+			"answer": "Yes, we have CCTV monitoring 24/7 for your safety."
+		},
+		{
+			"question": "How often is housekeeping service provided?",
+			"answer": "Housekeeping is provided after each use."
+		},
+		{
+			"question": "Do you offer room service, and what are the available hours?",
+			"answer": "Unfortunately, we do not offer room service."
+		},
+		{
+			"question": "Do you offer laundry or dry cleaning service?",
+			"answer": "Yes, laundry services are available upon request."
+		},
+		{
+			"question": "Is there a self-service laundry facility on-site?",
+			"answer": "This depends on the customer’s needs."
+		},
+		{
+			"question": "Are pets allowed in the pension house?",
+			"answer": "Regrettably, pets are not allowed."
+		},
+		{
+			"question": "Do you have family rooms?",
+			"answer": "Yes, we do offer family rooms."
+		},
+		{
+			"question": "Do you provide cribs or high chairs for young children?",
+			"answer": "We do not provide cribs or high chairs."
+		},
+		{
+			"question": "Can I book your facility for a special event or meeting?",
+			"answer": "Yes, our facility is available for special events and meetings."
+		},
+		{
+			"question": "Do you have elevators or ramps for wheelchair access?",
+			"answer": "I'm sorry, but we currently do not have elevators or ramps."
+		},
+		{
+			"question": "Do you offer discounts for extended stays or group bookings?",
+			"answer": "Yes, discounts may be available depending on the length of stay or group size."
+		},
+		{
+			"question": "Do you have smoking or non-smoking rooms?",
+			"answer": "We do not have smoking rooms, but we do have designated smoking areas."
+		},
+		{
+			"question": "Do the rooms have air conditioning and TV?",
+			"answer": "Yes, all our rooms are equipped with air conditioning and TVs."
+		},
+		{
+			"question": "Is there a private bathroom in each room?",
+			"answer": "Yes, each room has its own private bathroom."
+		},
+		{
+			"question": "Are there nearby dining options that you recommend?",
+			"answer": "Yes, we recommend dining at Lucas Cuisine."
+		},
+		{
+			"question": "What is your policy on visitors?",
+			"answer": "There are no strict policies regarding visitors as long as they are registered and the necessary fees are paid."
+		},
+		{
+			"question": "Do the rooms have hot and cold water?",
+			"answer": "Currently, we do not have hot and cold water facilities."
+		},
+		{
+			"question": "Do you offer honeymoon or romantic getaway packages?",
+			"answer": "Yes, we offer special packages for honeymooners and romantic getaways."
+		},
+		{
+			"question": "What is the maximum capacity of the function hall?",
+			"answer": "Our function hall can accommodate between 200 to 300 guests."
+		},
+		{
+			"question": "Do you provide seating arrangements for events, such as round tables and chairs?",
+			"answer": "While we provide chairs, we do not arrange seating."
+		},
+		{
+			"question": "Do you provide audio-visual equipment, such as projectors, microphones, and speakers in your function hall?",
+			"answer": "We do not have audio-visual equipment available."
+		},
+		{
+			"question": "Is there a sound system available for use?",
+			"answer": "Unfortunately, we do not have a sound system available."
+		},
+		{
+			"question": "Do you offer event packages for weddings, birthdays, or corporate meetings?",
+			"answer": "Yes, we offer event packages tailored for various occasions."
+		},
+		{
+			"question": "Can we bring our own caterer, and are there additional fees for that?",
+			"answer": "Yes, you may bring your own caterer, and there are no additional fees."
+		},
+		{
+			"question": "Can we bring our own decorations?",
+			"answer": "Yes, you are welcome to bring your own decorations."
+		},
+		{
+			"question": "What time is the function hall available for event setup?",
+			"answer": "The function hall is available for setup anytime, as long as it is vacant."
+		},
+		{
+			"question": "How far in advance should I book the function hall?",
+			"answer": "We recommend booking as far in advance as possible, but you can inquire anytime as long as it's available."
+		},
+		{
+			"question": "What is the payment schedule for function hall rentals?",
+			"answer": "Full payment is required prior to the event."
+		},
+		{
+			"question": "Is there enough parking space for guests attending events?",
+			"answer": "Yes, we have ample parking space available for guests."
+		},
+		{
+			"question": "What are the overtime fees if the event exceeds the allotted time?",
+			"answer": "There are no additional fees for events that exceed the allotted time by 2-3 hours."
+		},
+		{
+			"question": "Are there restrictions on serving alcohol during events?",
+			"answer": "There are no restrictions on serving alcohol during your event."
+		},
+		{
+			"question": "Who is responsible for cleaning and restoring the function hall after the event?",
+			"answer": "Typically, the event organizer is responsible for cleanup, but this can be discussed and agreed upon."
+		},
+		{
+			"question": "Can I request extra beds or a sofa bed for additional guests?",
+			"answer": "Yes, you can request extra beds or sofa beds."
+		},
+		{
+			"question": "Is there a TV in each room?",
+			"answer": "Yes, every room is equipped with a TV."
+		},
+		{
+			"question": "Do the rooms have a desk or workspace?",
+			"answer": "Yes, our rooms come with a desk or workspace."
+		},
+		{
+			"question": "Can you suggest where we can book a food package?",
+			"answer": "I recommend checking out Armando's Catering and Nett's Catering for food packages."
+		},
+		{
+			"question": "Do you have a room for 1 person?",
+			"answer": "Yes, we have rooms available for solo travelers."
+		},
+		{
+			"question": "How many rooms for 1 person?",
+			"answer": "We have two single rooms—one without air conditioning and one with."
+		},
+		{
+			"question": "What room is suitable for a family?",
+			"answer": "Room 1 is our recommended option for families."
+		},
+		{
+			"question": "Do you have a room with 2 beds?",
+			"answer": "Yes, Room 4 is ideal for up to four persons and has two beds."
+		},
+		{
+			"question": "Do you cater food for rooms?",
+			"answer": "Yes, catering options can be arranged based on customer preferences."
+		},
+		{
+			"question": "How much if we want to hold a birthday party in your function hall?",
+			"answer": "Our function hall rental for birthday parties is ₱5,000, which includes tables and chairs."
+		},
+		{
+			"question": "How much if we want to hold a wedding party in your function hall?",
+			"answer": "For weddings, our function hall is available for ₱10,000, which includes a free room, tables, and chairs."
+		},
+		{
+			"question": "Do you offer weekly stays in your rooms?",
+			"answer": "Currently, we only offer daily rentals."
+		},
+		{
+			"question": "How many rooms are in your pension house?",
+			"answer": "We have six rooms available at our pension house; however, some are currently under construction."
+		},
+		{
+			"question": "What amenities are included in the rooms?",
+			"answer": "All of our rooms come equipped with essential amenities for your comfort, including air conditioning, a TV, and a private bathroom. Additionally, we provide complimentary WiFi access for all guests. If you have any specific requests or needs, feel free to ask!"
+		},
+		{
+			"question": "Do you have any special offers or packages?",
+			"answer": "Yes, we do offer special packages, including romantic getaway and honeymoon packages, designed to create memorable experiences for our guests. If you're interested, please contact us for more details!"
+		},
+		{
+			"question": "What is included in the family room rate?",
+			"answer": "Our family rooms are designed for comfort and convenience, accommodating larger groups. The rate includes spacious sleeping arrangements, air conditioning, a TV, and a private bathroom. You'll also enjoy complimentary WiFi during your stay. It's perfect for making family time memorable!"
+		},
+		{
+			"question": "What are your room rates?",
+			"answer": "Our room rates vary based on the type of room. For our standard rooms, the rates are Php 650 for 12 hours and Php 950 for 24 hours. For larger family-sized rooms, the rate is Php 850 for 12 hours and Php 1,500 for 24 hours, and the non-aircon rate is Php 500 for 24 hours and Php 350 for 12 hours."
+		},
+		{
+			"question": "How can I book a room?",
+			"answer": "You can book a room by calling us at 09569364634/09972130848"
+		},
+		{
+			"question": "Is breakfast included in the room rates?",
+			"answer": "Unfortunately, breakfast is not included in the room rates."
+		},
+		{
+			"question": "Room Categories & Detailed Descriptions?",
+			"answer": "1. Standard Room | • Size: 250 sq. ft. | • Bed: 1 Queen Bed | • Occupancy: Up to 2 guests | • Amenities: Free Wi-Fi, Flat-screen TV, Split type Aircon, Work desk, and Private bathroom with shower. | • Rate: 650 for 12hours and 950 for 24hours | • Description: Ideal for solo travelers or couples, the Standard Room offers a comfortable and well-appointed space for a relaxing stay. | 2. Family Room | • Size: 450 sq. ft. | • Beds: 2 Double Beds or 1 King Bed + 1 Sofa Bed | • Occupancy: Up to 6 guests | • Amenities: Free Wi-Fi, Flat-screen TV, Split type Aircon, Spacious seating area, Private bathroom with shower. | • Rate: 850 for 12hours and 1,500 for 24hours | • Description: Perfect for families, this room features extra space and convenient amenities. | General Information: | • Check-in/Out Time: Everytime (as long as you call their cellphone no.) | • Breakfast: Available for an additional fee (or included with certain room types). | • Parking: On-site parking available and it's free (no fees). | • Cancellation Policy: Free cancellation up to 48 hours before arrival."
+		},
+		{
+			"question": "Can I book your facility for a special event? ",
+			"answer": "Yes, our facility is available for special events."
+		},
+		{
+			"question": "How much is your Function Hall Rental?",
+			"answer": "For weddings, our function hall is available for ₱10,000, which includes a 1 free room, tables, and chairs. And Our function hall rental for birthday parties is ₱5,000, which includes tables and chairs."
+		},
+		{
+			"question": "Are there restrictions on serving alcohol during events?",
+			"answer": "There are no restrictions on serving alcohol during your event."
+		},
+		{
+			"question": "What is the payment schedule for function hall rentals?",
+			"answer": "Full payment is required prior to the event."
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		},
+		{
+			"question": "ok",
+			"answer": "ok?"
+		}
+	]
 }
